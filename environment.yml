@@ -24,7 +24,7 @@ dependencies:
     - tqdm==4.66.1
     - PyNAFF==1.1.5
     - Cython==3.0.5
-    - PyHEADTAIL==1.16.4
+  #  - PyHEADTAIL==1.16.4
   #  - cpymad ==1.14.2
   #  - pysixtrack ==0.0.6
   #  - botorch==0.8.1
